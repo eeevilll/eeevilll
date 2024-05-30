@@ -1,13 +1,14 @@
-     call me eeevilll  😈
+    call me eeevilll  
+
+╔═════════ 😈 ═════════╗
 
 
+  in 7 june born a new 
+         Devil
+   so let's celebrate
 
 
-
--softwaring      
--Machine learning      
--Web Development  
-and i m trying to learn more...
+╚═════════ 😈 ═════════╝
 
 
 
