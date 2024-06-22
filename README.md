@@ -1,11 +1,6 @@
-# Welcome to eeevilll's Profile 👾
+# Hi there! I'm **eeevilll**  👾
 
-Hi there! I'm **eeevilll**. 
-
-- 🏆 Competitive programming enthusiast
-- 🎥 Content creator on YouTube
-- 💬 Active participant on Discord
-- 📊 Data science and machine learning practitioner on Kaggle
+![Software Engineering](https://cdn.shortpixel.ai/spai/w_697+h_465+q_lossy+ret_img+to_webp/techtalent.ca/wp-content/uploads/2020/03/developer-female.jpg)
 
 Feel free to connect with me on these platforms:
 
@@ -14,10 +9,6 @@ Feel free to connect with me on these platforms:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yahiawissal76/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/wissalyahia)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/yahiawissal76)
-
-## About Me
-
-I am passionate about learning new technologies and improving my coding skills. Whether it's solving problems on LeetCode, competing in Kaggle competitions, or creating content on YouTube, I love to stay engaged in the tech community.
 
 ## 🛠️ Languages and Tools
 
